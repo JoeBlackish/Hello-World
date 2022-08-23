@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JoeBlackish
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning full stack software development with IBM
-- 💞️ I’m looking to collaborate on web app with my current knowlege
+- 💞️ I’m looking to collaborate on web app with my current knowledge
 - 📫 How to reach me... Email:anderjossy@gmail.com  Twitter: @Jossy_Joe 
 
 <!---
