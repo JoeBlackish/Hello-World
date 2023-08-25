@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @JoeBlackish
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning full stack software development with IBM
-- 💞️ I’m looking to collaborate on web app with my current knowledge
-- 📫 How to reach me... Email:anderjossy@gmail.com  Twitter: @Jossy_Joe 
+- 👋 Hi, I’m Joe Blackish
+- 👀 I have 3+ experience designing professional websites using WordPress.
+- 🌱 I'm an aspiring software dev. Currently learning frontend development. 
+- 💞️ I’m looking to work and collaborate on a web app with my current knowledge.
+- 📫 How to reach me... Email: anderjossy@gmail.com  Linkedin: linkedin.com/in/azubuike-joseph/ 
 
 <!---
 JoeBlackish/JoeBlackish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
